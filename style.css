@@ -1,0 +1,32 @@
+* {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#description h2 {
+    color: indigo;
+}
+
+#ingredients h2 {
+    color: lime;
+}
+
+#ingredients li {
+    color: crimson;
+}
+
+#steps h2 {
+    color: gold;
+}
+
+a {
+    background-color: black;
+    color: red;
+}
